@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://certos.ai/sitemap.xml
